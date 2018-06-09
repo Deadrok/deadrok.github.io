@@ -1,113 +1,185 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sfsdfsd.com" resolutions="1x" timestamp="1527250841428">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELO.com" resolutions="1x" timestamp="1528577181064">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3869984639" ref="index"/>
+    <file name="index.css" crc="4122561746" ref="index"/>
+    <file name="nomq_index.css" crc="516847242" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="montserrat-medium.woff" crc="465319170"/>
-    <file name="montserrat-medium.ttf.eot" crc="217409576"/>
-    <file name="montserrat-medium.svg" crc="183528233"/>
-    <file name="montserrat-semibolditalic.woff" crc="189400145"/>
-    <file name="montserrat-semibolditalic.ttf.eot" crc="41326727"/>
-    <file name="montserrat-semibolditalic.svg" crc="287688109"/>
-    <file name="montserrat-bold.woff" crc="3994715187"/>
-    <file name="montserrat-bold.ttf.eot" crc="4037103824"/>
-    <file name="montserrat-bold.svg" crc="156254176"/>
-    <file name="montserrat-lightitalic.woff" crc="3759200753"/>
-    <file name="montserrat-lightitalic.ttf.eot" crc="229472074"/>
-    <file name="montserrat-lightitalic.svg" crc="3837242228"/>
-    <file name="montserrat-bolditalic.woff" crc="4279487151"/>
-    <file name="montserrat-bolditalic1.ttf.eot" crc="398171531"/>
-    <file name="montserrat-bolditalic.svg" crc="3886344882"/>
     <file name="montserrat-light.woff" crc="4170459520"/>
     <file name="montserrat-light.ttf.eot" crc="12639217"/>
     <file name="montserrat-light.svg" crc="4192999658"/>
+    <file name="montserrat-extrabolditalic.woff" crc="4026272835"/>
+    <file name="montserrat-extrabolditalic.ttf.eot" crc="465380497"/>
+    <file name="montserrat-extrabolditalic.svg" crc="191411757"/>
     <file name="montserrat-blackitalic.woff" crc="32946950"/>
     <file name="montserrat-bolditalic.ttf.eot" crc="398171531"/>
     <file name="montserrat-blackitalic.svg" crc="4080226126"/>
+    <file name="montserrat-extrabold.woff" crc="341995673"/>
+    <file name="montserrat-extrabold.ttf.eot" crc="453162484"/>
+    <file name="montserrat-extrabold.svg" crc="292601853"/>
+    <file name="montserrat-bolditalic.woff" crc="4279487151"/>
+    <file name="montserrat-bolditalic1.ttf.eot" crc="398171531"/>
+    <file name="montserrat-bolditalic.svg" crc="3886344882"/>
+    <file name="montserrat-lightitalic.woff" crc="3759200753"/>
+    <file name="montserrat-lightitalic.ttf.eot" crc="229472074"/>
+    <file name="montserrat-lightitalic.svg" crc="3837242228"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="form_check.php" crc="4020933626" ref="index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index"/>
-    <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u3534.php" crc="3771256116" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="form-u3260.php" crc="42496672" ref="index"/>
-    <file name="form-u3624.php" crc="3764807638" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="vm.png" crc="4275058958" seo="true" ref="index">
+    <file name="logo-03.svg" crc="166413556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg1.jpg" crc="4076354654" seo="true" ref="index">
+    <file name="logo-03_poster_.png" crc="443372230" ref="index"/>
+    <file name="macbookpro15inch_mockup.jpg" crc="4020336851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-logo.svg" crc="318745358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c- white_монтажная область 1 копия.png" crc="4048457650" seo="true" ref="index">
+    <file name="instagram-logo_poster_.png" crc="4024130849" ref="index"/>
+    <file name="vk-social-logotype.svg" crc="4252893645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ресурс 31@5x.png" crc="3938977063" seo="true" ref="index">
+    <file name="vk-social-logotype_poster_.png" crc="485333699" ref="index"/>
+    <file name="behance-logo-button.svg" crc="89577857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ресурс 30@5x.png" crc="315863142" seo="true" ref="index">
+    <file name="behance-logo-button_poster_.png" crc="4140345204" ref="index"/>
+    <file name="bg11-02-02-02.png" crc="4126745712" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ресурс 29@5x.png" crc="428577810" seo="true" ref="index">
+    <file name="ресурс 2.png" crc="502167151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg1-u1742.png" crc="237007705" ref="index"/>
-    <file name="вставленные-svg-18643x155.svg" crc="315794931" seo="true" ref="index">
+    <file name="ресурс 3.png" crc="3767989856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="вставленные svg 18643x155_poster_.png" crc="4194480452" ref="index"/>
-    <file name="вставленные-svg-184406x166.svg" crc="4185595792" seo="true" ref="index">
+    <file name="ресурс 5.png" crc="226448465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="вставленные svg 184406x166_poster_.png" crc="153108500" ref="index"/>
-    <file name="вставленные-svg-131151x163.svg" crc="4237663422" seo="true" ref="index">
+    <file name="ресурс 4.png" crc="4034557456" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="вставленные svg 131151x163_poster_.png" crc="345734176" ref="index"/>
-    <file name="вставленные-svg-501551x501.svg" crc="4239814588" seo="true" ref="index">
+    <file name="ресурс 9.png" crc="488461206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="вставленные svg 501551x501_poster_.png" crc="4204998061" ref="index"/>
-    <file name="вставленные-svg-501551x5012.svg" crc="4072080750" seo="true" ref="index">
+    <file name="ресурс 8.png" crc="86568997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="вставленные svg 501551x501_poster_2.png" crc="227785289" ref="index"/>
-    <file name="вставленные-svg-402054x502.svg" crc="3817293936" seo="true" ref="index">
+    <file name="ресурс 7.png" crc="3841129680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="вставленные svg 402054x502_poster_.png" crc="4182454115" ref="index"/>
-    <file name="bg3-u1717.png" crc="432178665" ref="index"/>
-    <file name="ресурс 1-u1865.png" crc="4077075689" ref="index"/>
-    <file name="ресурс 2-u1873.png" crc="272371739" ref="index"/>
-    <file name="ресурс 3-u1880.png" crc="530720721" ref="index"/>
-    <file name="ресурс 4-u1887.png" crc="516495068" ref="index"/>
-    <file name="envelope.png" crc="3945595823" seo="true" ref="index">
+    <file name="ресурс 6.png" crc="500106645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="phone-symbol-of-an-auricular-inside-a-circle.png" crc="244491247" seo="true" ref="index">
+    <file name="bg2_монтажная область 1.png" crc="3929194516" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon.png" crc="4066308273" seo="true" ref="index">
+    <file name="macbookpro15inch_mockup475x362.jpg" crc="6473353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="bg11-02-02-02-u4359-fr.png" crc="3769463494" ref="index"/>
+    <file name="bg11-02-02-02-u4359-fr2.png" crc="322450341" ref="index"/>
+    <file name="macbookpro15inch_mockup393x299.jpg" crc="3942872511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg11-02-02-02-u4359-fr3.png" crc="4221948152" ref="index"/>
+    <file name="bg2_монтажная область 1-u1878-fr.png" crc="4083754833" ref="index"/>
+    <file name="macbookpro15inch_mockup308x234.jpg" crc="337527033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg11-02-02-02-u4359-fr4.png" crc="4056401267" ref="index"/>
+    <file name="bg2_монтажная область 1-u1878-fr2.png" crc="4084129755" ref="index"/>
+    <file name="macbookpro15inch_mockup193x147.jpg" crc="4027622018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg11-02-02-02-u4359-fr5.png" crc="3941066173" ref="index"/>
+    <file name="bg2_монтажная область 1-u1878-fr3.png" crc="3823978626" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3983348795" seo="true" mt="1526660301065" redirect="true"/>
+  <file name="index.html" crc="3761200101" seo="true" mt="1528577122240" redirect="true"/>
 </manifest>
