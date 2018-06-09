@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELO.com" resolutions="1x" timestamp="1528577181064">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELO.com" resolutions="1x" timestamp="1528582722323">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4122561746" ref="index"/>
-    <file name="nomq_index.css" crc="516847242" ref="index"/>
+    <file name="index.css" crc="4278971844" ref="index"/>
+    <file name="nomq_index.css" crc="3977372860" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-light.woff" crc="4170459520"/>
@@ -53,7 +53,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="instagram-logo_poster_.png" crc="4024130849" ref="index"/>
     <file name="vk-social-logotype.svg" crc="4252893645" seo="true" ref="index">
@@ -62,11 +61,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="vk-social-logotype_poster_.png" crc="485333699" ref="index"/>
     <file name="behance-logo-button.svg" crc="89577857" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -147,10 +144,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg2_монтажная область 1.png" crc="3929194516" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="bg2_монтажная область 1.png" crc="4017507052" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -158,28 +152,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="macbookpro15inch_mockup475x362.jpg" crc="6473353" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="macbookpro15inch_mockup558x425.jpg" crc="4007213769" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg11-02-02-02-u4359-fr.png" crc="3769463494" ref="index"/>
+    <file name="macbookpro15inch_mockup518x392.jpg" crc="169458641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="bg11-02-02-02-u4359-fr2.png" crc="322450341" ref="index"/>
-    <file name="macbookpro15inch_mockup393x299.jpg" crc="3942872511" seo="true" ref="index">
+    <file name="bg2_монтажная область 1-u1878-fr.png" crc="78752655" ref="index"/>
+    <file name="macbookpro15inch_mockup404x307.jpg" crc="429273929" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg11-02-02-02-u4359-fr3.png" crc="4221948152" ref="index"/>
-    <file name="bg2_монтажная область 1-u1878-fr.png" crc="4083754833" ref="index"/>
-    <file name="macbookpro15inch_mockup308x234.jpg" crc="337527033" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg11-02-02-02-u4359-fr4.png" crc="4056401267" ref="index"/>
-    <file name="bg2_монтажная область 1-u1878-fr2.png" crc="4084129755" ref="index"/>
-    <file name="macbookpro15inch_mockup193x147.jpg" crc="4027622018" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg11-02-02-02-u4359-fr5.png" crc="3941066173" ref="index"/>
-    <file name="bg2_монтажная область 1-u1878-fr3.png" crc="3823978626" ref="index"/>
+    <file name="bg2_монтажная область 1-u1878-fr2.png" crc="163895833" ref="index"/>
+    <file name="bg11-02-02-02-u4359-fr4.png" crc="531686332" ref="index"/>
+    <file name="bg11-02-02-02-u4359-fr5.png" crc="495443261" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3761200101" seo="true" mt="1528577122240" redirect="true"/>
+  <file name="index.html" crc="4025782730" seo="true" mt="1528582665198" redirect="true"/>
 </manifest>
